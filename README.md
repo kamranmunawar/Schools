@@ -1,7 +1,7 @@
 # PROJECT TITLE 
 School information on the map
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+## NON-TECHNICAL EXPLANATION OF PROJECT
 This project is about data visualisation. Download data from ofstead and Office for National Statistics to view school information on a map.
 
 ## DATA
