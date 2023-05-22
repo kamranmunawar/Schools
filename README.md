@@ -2,7 +2,7 @@
 School information on the map
 
 ## NON-TECHNICAL EXPLANATION OF PROJECT
-This project is about data visualisation. Download data from ofstead and Office for National Statistics to view school information on a map.
+This project is about data visualization. Download data from Ofsted and the Office for National Statistics to view school information on a map.
 
 ## DATA
 Download data from ofstead website (https://reports.ofsted.gov.uk/) and Office for National Statistics website (https://geoportal.statistics.gov.uk)
