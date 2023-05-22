@@ -1,4 +1,4 @@
-# PROJECT TITLE 
+# PROJECT:
 School information on the map
 
 ## NON-TECHNICAL EXPLANATION OF PROJECT
